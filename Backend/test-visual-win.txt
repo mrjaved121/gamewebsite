@@ -1,0 +1,61 @@
+Logging in...
+Logged in.
+
+--- Playing 50 Rounds ---
+Round 1: LOSS | Payout: 0.00
+Round 2: WIN  | Payout: 141.01 (WinAmount: 41.01)
+Round 3: LOSS | Payout: 0.00
+Round 4: LOSS | Payout: 0.00
+Round 5: WIN  | Payout: 138.53 (WinAmount: 38.53)
+Round 6: LOSS | Payout: 0.00
+Round 7: LOSS | Payout: 0.00
+Round 8: WIN  | Payout: 122.89 (WinAmount: 22.89)
+Round 9: LOSS | Payout: 0.00
+Round 10: LOSS | Payout: 0.00
+Round 11: WIN  | Payout: 143.29 (WinAmount: 43.29)
+Round 12: LOSS | Payout: 0.00
+Round 13: LOSS | Payout: 0.00
+Round 14: WIN  | Payout: 137.40 (WinAmount: 37.40)
+Round 15: LOSS | Payout: 0.00
+Round 16: LOSS | Payout: 0.00
+Round 17: WIN  | Payout: 152.13 (WinAmount: 52.13)
+Round 18: LOSS | Payout: 0.00
+Round 19: LOSS | Payout: 0.00
+Round 20: WIN  | Payout: 124.65 (WinAmount: 24.65)
+Round 21: LOSS | Payout: 0.00
+Round 22: LOSS | Payout: 0.00
+Round 23: WIN  | Payout: 141.00 (WinAmount: 41.00)
+Round 24: LOSS | Payout: 0.00
+Round 25: LOSS | Payout: 0.00
+Round 26: WIN  | Payout: 141.53 (WinAmount: 41.53)
+Round 27: LOSS | Payout: 0.00
+Round 28: LOSS | Payout: 0.00
+Round 29: WIN  | Payout: 192.06 (WinAmount: 92.06)
+Round 30: LOSS | Payout: 0.00
+Round 31: LOSS | Payout: 0.00
+Round 32: WIN  | Payout: 120.28 (WinAmount: 20.28)
+Round 33: LOSS | Payout: 0.00
+Round 34: LOSS | Payout: 0.00
+Round 35: WIN  | Payout: 143.79 (WinAmount: 43.79)
+Round 36: LOSS | Payout: 0.00
+Round 37: LOSS | Payout: 0.00
+Round 38: WIN  | Payout: 164.15 (WinAmount: 64.15)
+Round 39: LOSS | Payout: 0.00
+Round 40: LOSS | Payout: 0.00
+Round 41: WIN  | Payout: 172.95 (WinAmount: 72.95)
+Round 42: LOSS | Payout: 0.00
+Round 43: LOSS | Payout: 0.00
+Round 44: WIN  | Payout: 108.82 (WinAmount: 8.82)
+Round 45: LOSS | Payout: 0.00
+Round 46: LOSS | Payout: 0.00
+Round 47: WIN  | Payout: 148.42 (WinAmount: 48.42)
+Round 48: LOSS | Payout: 0.00
+Round 49: LOSS | Payout: 0.00
+Round 50: WIN  | Payout: 155.79 (WinAmount: 55.79)
+
+--- Analysis ---
+Total Rounds: 50
+Wins: 17 (34.0%)
+Losses: 33
+Win Sequence: LWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLW
+✅ Frequency Cap Passed: No >1 win in any 3-game sequence.

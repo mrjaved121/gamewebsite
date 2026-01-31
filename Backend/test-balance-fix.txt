@@ -1,0 +1,61 @@
+Logging in...
+Logged in.
+
+--- Playing 50 Rounds ---
+Round 1: WIN  | Payout: 460.00 (WinAmount: 360.00)
+Round 2: LOSS | Payout: 0.00
+Round 3: LOSS | Payout: 0.00
+Round 4: WIN  | Payout: 1475.00 (WinAmount: 1375.00)
+Round 5: LOSS | Payout: 0.00
+Round 6: LOSS | Payout: 0.00
+Round 7: WIN  | Payout: 910.00 (WinAmount: 810.00)
+Round 8: LOSS | Payout: 0.00
+Round 9: LOSS | Payout: 0.00
+Round 10: WIN  | Payout: 1180.00 (WinAmount: 1080.00)
+Round 11: LOSS | Payout: 0.00
+Round 12: LOSS | Payout: 0.00
+Round 13: WIN  | Payout: 510.00 (WinAmount: 410.00)
+Round 14: LOSS | Payout: 0.00
+Round 15: LOSS | Payout: 0.00
+Round 16: WIN  | Payout: 1660.00 (WinAmount: 1560.00)
+Round 17: LOSS | Payout: 0.00
+Round 18: LOSS | Payout: 0.00
+Round 19: WIN  | Payout: 1150.00 (WinAmount: 1050.00)
+Round 20: LOSS | Payout: 0.00
+Round 21: LOSS | Payout: 0.00
+Round 22: WIN  | Payout: 3340.00 (WinAmount: 3240.00)
+Round 23: LOSS | Payout: 0.00
+Round 24: LOSS | Payout: 0.00
+Round 25: WIN  | Payout: 1500.00 (WinAmount: 1400.00)
+Round 26: LOSS | Payout: 0.00
+Round 27: LOSS | Payout: 0.00
+Round 28: WIN  | Payout: 1720.00 (WinAmount: 1620.00)
+Round 29: LOSS | Payout: 0.00
+Round 30: LOSS | Payout: 0.00
+Round 31: WIN  | Payout: 3340.00 (WinAmount: 3240.00)
+Round 32: LOSS | Payout: 0.00
+Round 33: LOSS | Payout: 0.00
+Round 34: WIN  | Payout: 1170.00 (WinAmount: 1070.00)
+Round 35: LOSS | Payout: 0.00
+Round 36: LOSS | Payout: 0.00
+Round 37: WIN  | Payout: 1640.00 (WinAmount: 1540.00)
+Round 38: LOSS | Payout: 0.00
+Round 39: LOSS | Payout: 0.00
+Round 40: WIN  | Payout: 940.00 (WinAmount: 840.00)
+Round 41: LOSS | Payout: 0.00
+Round 42: LOSS | Payout: 0.00
+Round 43: WIN  | Payout: 1720.00 (WinAmount: 1620.00)
+Round 44: LOSS | Payout: 0.00
+Round 45: LOSS | Payout: 0.00
+Round 46: WIN  | Payout: 960.00 (WinAmount: 860.00)
+Round 47: LOSS | Payout: 0.00
+Round 48: LOSS | Payout: 0.00
+Round 49: WIN  | Payout: 670.00 (WinAmount: 570.00)
+Round 50: LOSS | Payout: 0.00
+
+--- Analysis ---
+Total Rounds: 50
+Wins: 17 (34.0%)
+Losses: 33
+Win Sequence: WLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWLLWL
+Ô£à Frequency Cap Passed: No >1 win in any 3-game sequence.
